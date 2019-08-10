@@ -1,4 +1,4 @@
-#### 利用Alfred进行快捷键搜索
+#### 利用Alfred进行快捷键搜索(Use Alfred for shortcut quick search)
 - 中文版
 	- Alfred搜索框还是不够快，我们需要更快,使用快捷键。
 - 使用说明：
