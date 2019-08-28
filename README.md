@@ -4,6 +4,8 @@
 - 使用说明：
 
 	- [Web:利用Alfred进行快捷键搜索 – Knowledgeworktool](http://knowledgeworktool.com/alfred/)
+示例：欧路字典
+![](eudic.gif)
 
 
 - English Version
